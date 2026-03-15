@@ -18,7 +18,7 @@ Practical scripts for common day-to-day admin, diagnostics, and maintenance task
 | `PWGenerator.py` | Creates random passwords. |
 | `SystemInfo.ps1` | Collects and displays detailed system information. |
 | `WSUSCleanUp.ps1` | Performs WSUS cleanup tasks. |
-| `QAList.ps1` | QA Checklist. |  
+| `InstalledApplications.ps1` | Software Inventory Report. |  
 
 ## Script Highlights
 
@@ -63,6 +63,11 @@ powershell -ExecutionPolicy Bypass -File .\SystemInfo.ps1
 ```powershell
 python .\PWGenerator.py
 ```
+
+### Run the InstalledApplications.ps1
+
+```powershell
+powershell -ExecutionPolicy Bypass -File .\InstalledApplications.ps1
 
 ## Notes
 
