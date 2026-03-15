@@ -18,6 +18,7 @@ Practical scripts for common day-to-day admin, diagnostics, and maintenance task
 | `PWGenerator.py` | Creates random passwords. |
 | `SystemInfo.ps1` | Collects and displays detailed system information. |
 | `WSUSCleanUp.ps1` | Performs WSUS cleanup tasks. |
+| `QAList.ps1` | QA Checklist. |  
 
 ## Script Highlights
 
