@@ -50,6 +50,10 @@ Generates random passwords for daily admin use.
 
 Helps keep WSUS healthy by cleaning obsolete update data.
 
+### 🖥️ `InstalledApplications.ps1`
+
+Collects key application details useful for appslication inventory checks.
+
 ## Quick Start
 
 ### Run a PowerShell script
@@ -63,11 +67,6 @@ powershell -ExecutionPolicy Bypass -File .\SystemInfo.ps1
 ```powershell
 python .\PWGenerator.py
 ```
-
-### Run the InstalledApplications.ps1
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\InstalledApplications.ps1
 
 ## Notes
 
