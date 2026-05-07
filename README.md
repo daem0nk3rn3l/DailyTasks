@@ -19,6 +19,8 @@ Practical scripts for common day-to-day admin, diagnostics, and maintenance task
 | `SystemInfo.ps1` | Collects and displays detailed system information. |
 | `WSUSCleanUp.ps1` | Performs WSUS cleanup tasks. |
 | `InstalledApplications.ps1` | Software Inventory Report. |  
+| `DescriptionOutputof_File.ps1` | Output of Files/Directory HTML. |
+| `TS_MoveSourceDeestination.ps1` | Moving a Task Sequence from Source to Destination Server. |
 
 ## Script Highlights
 
