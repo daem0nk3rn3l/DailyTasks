@@ -21,7 +21,7 @@ Practical scripts for common day-to-day admin, diagnostics, and maintenance task
 | `InstalledApplications.ps1` | Software Inventory Report. |  
 | `DescriptionOutputof_File.ps1` | Output of Files/Directory HTML. |
 | `TS_MoveSourceDeestination.ps1` | Moving a Task Sequence from Source to Destination Server. |
-|` CheckGPTFreeDiskSpace.ps1`     | Check disk space and if disk is GPT. |
+| `CheckGPTFreeDiskSpace.ps1`     | Check disk space and if disk is GPT. |
 
 ## Script Highlights
 
