@@ -22,7 +22,7 @@ Practical scripts for common day-to-day admin, diagnostics, and maintenance task
 | `DescriptionOutputof_File.ps1` | Output of Files/Directory HTML. |
 | `TS_MoveSourceDeestination.ps1` | Moving a Task Sequence from Source to Destination Server. |
 | `CheckGPTFreeDiskSpace.ps1`     | Check disk space and if disk is GPT. |
-| `CheckDisk_GPT_65GB.ps1'        | Check disk space is greater 65GB and if disk is GPT. |
+| `CheckDisk_GPT_65GB.ps1`        | Check disk space is greater 65GB and if disk is GPT. |
 
 ## Script Highlights
 
